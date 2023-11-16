@@ -3,7 +3,7 @@ entries:
   open5gs-smf:
   - apiVersion: v2
     appVersion: 2.4.11
-    created: "2023-11-16T10:17:42.849165469Z"
+    created: "2023-11-16T11:01:48.594302912Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -11,7 +11,7 @@ entries:
       - bitnami-common
       version: 1.x.x
     description: 'Helm chart to deploy Open5gs SMF service on Kubernetes. '
-    digest: fe53a430287e0ebc37b0ecacf22a64bfd7466589bbb8b1abb2f13a24910c7d80
+    digest: 7424390cac89f5fd8936bb046a24a2a67d4fc37fab20cbdab0ba9a5e7b051349
     home: https://github.com/gradiant/openverso-charts
     icon: https://open5gs.org/assets/img/open5gs-logo.png
     keywords:
@@ -25,4 +25,4 @@ entries:
     urls:
     - open5gs-smf-2.1.0.tgz
     version: 2.1.0
-generated: "2023-11-16T10:17:42.84309343Z"
+generated: "2023-11-16T11:01:48.591205151Z"
